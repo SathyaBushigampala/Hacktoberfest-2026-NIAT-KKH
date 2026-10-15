@@ -26,7 +26,7 @@ Follow the organizers' announcements for event updates. The supplied briefs are 
 
 ## Submit your project
 
-Read the [step-by-step submission guide (PDF)](docs/submission-guide.pdf) before submitting. Commit only your completed submission Markdown file here; your project code stays in your own public repository.
+Read the [step-by-step submission guide (PDF)](docs/Submission_Guide.pdf) before submitting. Commit only your completed submission Markdown file here; your project code stays in your own public repository.
 
 1. Fork this repository.
 2. Build in your own public project repository.
